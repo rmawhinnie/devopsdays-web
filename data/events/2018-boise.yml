@@ -61,9 +61,9 @@ sponsors:
     level: silver
   - id: ddev
     level: bronze
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
-  - id: nutanix
+  - id: nutanix-before-20200127
     level: silver
   - id: idahotechcouncil
     level: community
@@ -79,7 +79,7 @@ sponsors:
     level:  silver
   - id: clearwater
     level: silver
-  - id: taos
+  - id: taos-before-20190405
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

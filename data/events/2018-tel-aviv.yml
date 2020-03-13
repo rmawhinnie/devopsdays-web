@@ -101,9 +101,9 @@ sponsors:
     level: day1happyhour
   - id: singular
     level: silver
-  - id: appsflyer-2018
+  - id: appsflyer
     level: silver
-  - id: appsflyer-2018
+  - id: appsflyer
     level: day2happyhour
   - id: facebook
     level: silver
@@ -124,7 +124,7 @@ sponsors:
     level: community
   - id: opsschool
     level: community
-  - id: logzio
+  - id: logz-before-20200211
     level: silver
   - id: automat_it
     level: bronze

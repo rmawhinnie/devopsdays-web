@@ -2,11 +2,12 @@ name: "2017-portland" # The name of the event. Four digit year with the city nam
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Portland" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspdx"
-friendly: "2017-portland"
+event_group: "Portland, OR"
+
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: 2017-08-01 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2017-08-02 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-08-01T00:00:00-07:00
+enddate: 2017-08-02T23:59:59-07:00
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-03-04 # start accepting talk proposals.
 cfp_date_end: 2017-05-09 # close your call for proposals.
@@ -106,7 +107,7 @@ sponsors:
       level: gold
     - id: opsgenie
       level: gold
-    - id: nutanix
+    - id: nutanix-before-20200127
       level: gold
     - id: extrahop
       level: gold
@@ -122,13 +123,13 @@ sponsors:
       level: cmccd
     - id: puppet
       level: cmccd
-    - id: redhat
+    - id: redhat-before-20190528
       level: cmccd
     - id: tripwire
       level: bronze
     - id: thoughtworks-gocd-before-20190213
       level: silver
-    - id: pagerduty
+    - id: pagerduty-before-20190930
       level: gold
     - id: newrelic
       level: gold

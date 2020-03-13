@@ -144,9 +144,11 @@ sponsors:
     level: gold
   - id:  c6bank 
     level: gold
-  - id: instana
+  - id: instana-before-20200127
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
+    level: gold
+  - id: globalweb
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: 4linux-2019
@@ -161,7 +163,7 @@ sponsors:
     level: community
   - id: vbrownbagbrasil
     level: community
-  - id: estabilis
+  - id: estabilis-before-20190722
     level: community
     url: https://www.estabil.is/?utm_source=devopsdaysp&utm_medium=sitedevopsday&utm_campaign=devopsdaysp
   - id: test-girls
@@ -233,7 +235,7 @@ program:
     start_time: "11:10"
     end_time: "11:40"
 
-  - title: "joao-brito"
+  - title: "eduardo-ximenes"
     type: talk
     date: "2019-04-10"
     start_time: "11:40"
@@ -401,8 +403,20 @@ program:
     end_time: "17:45"
 
 ignites:
-  - title: "eduardo-ximenes"
+  - title: "rafael-zago"
+    date: "2019-04-10"
+
+  - title: "jonatan-baraldi"
+    date: "2019-04-10"
+
+  - title: "miguel-mattos"
     date: "2019-04-10"
 
   - title: "danubia-barreto"
+    date: "2019-04-11"
+
+  - title: "antonio-muniz"
+    date: "2019-04-11"
+
+  - title: "marco-junior"
     date: "2019-04-11"

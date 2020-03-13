@@ -70,11 +70,11 @@ sponsors:
     level: silver
   - id: netapp
     level: silver
-  - id: honeycomb
+  - id: honeycomb-before-20200129
     level: silver
   - id: actifio
     level: silver
-  - id: techtowntraining
+  - id: techtowntraining-before-20190407
     level: silver
   - id: victorops-before-20180823
     level: silver

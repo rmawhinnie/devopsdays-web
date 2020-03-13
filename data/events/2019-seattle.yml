@@ -124,9 +124,13 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
-  - id: pagerduty
+  - id: pagerduty-before-20190930
     level: gold
   - id: site24x7
+    level: gold
+  - id: split-software
+    level: gold
+  - id: victorops
     level: gold
   - id: lagom-solutions
     level: silver
@@ -136,13 +140,17 @@ sponsors:
     level: silver
   - id: signalfx
     level: silver
-  - id: redhat
+  - id: redhat-before-20190528
     level: silver
   - id: vmware
     level: silver
-  - id: sysdig
+  - id: sysdig-before-20200210
     level: bronze
   - id: macstadium
+    level: bronze
+  - id: cmd
+    level: bronze
+  - id: thousandeyes
     level: bronze
   - id: seattle-coffeeops
     level: community
